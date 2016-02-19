@@ -1,5 +1,7 @@
 # xZune.Vlc
 
+[![Join the chat at https://gitter.im/higankanshi/xZune.Vlc](https://badges.gitter.im/higankanshi/xZune.Vlc.svg)](https://gitter.im/higankanshi/xZune.Vlc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Introduction 
 
 xZune.Vlc 是一个 LibVlc 封装库的 .NET 实现,封装了大部分的 LibVlc 的功能,该项目主要是为了寻求一个在 WPF 上使用 Vlc 的完美的解决方案,xZune.Vlc 提供一个原生的 WPF 播放控件(xZune.Vlc.Wpf),该控件采用 InteropBitmap 与共享内存进行播放视频,是一个原生的 WPF 控件,不存在 HwndHost 的空域问题.  
